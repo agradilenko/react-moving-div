@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-moving-div/static/css/main.5facb584.chunk.css",
+    "main.js": "/react-moving-div/static/js/main.d5b97f64.chunk.js",
+    "main.js.map": "/react-moving-div/static/js/main.d5b97f64.chunk.js.map",
+    "runtime-main.js": "/react-moving-div/static/js/runtime-main.b03fdfba.js",
+    "runtime-main.js.map": "/react-moving-div/static/js/runtime-main.b03fdfba.js.map",
+    "static/js/2.a3868b5a.chunk.js": "/react-moving-div/static/js/2.a3868b5a.chunk.js",
+    "static/js/2.a3868b5a.chunk.js.map": "/react-moving-div/static/js/2.a3868b5a.chunk.js.map",
+    "index.html": "/react-moving-div/index.html",
+    "precache-manifest.c4daf13739b2b33bf10cfecfab29983d.js": "/react-moving-div/precache-manifest.c4daf13739b2b33bf10cfecfab29983d.js",
+    "service-worker.js": "/react-moving-div/service-worker.js",
+    "static/css/main.5facb584.chunk.css.map": "/react-moving-div/static/css/main.5facb584.chunk.css.map",
+    "static/js/2.a3868b5a.chunk.js.LICENSE.txt": "/react-moving-div/static/js/2.a3868b5a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b03fdfba.js",
+    "static/js/2.a3868b5a.chunk.js",
+    "static/css/main.5facb584.chunk.css",
+    "static/js/main.d5b97f64.chunk.js"
+  ]
+}
